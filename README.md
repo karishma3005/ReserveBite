@@ -37,28 +37,6 @@ Backend Repository:
 - cors
 - validator
 
-## 📂 Project Structure
-
-Restaurant-Reservation-System/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── ...
-│
-├── backend/
-│   ├── controller/
-│   ├── database/
-│   ├── model/
-│   ├── router/
-│   ├── app.js
-│   ├── server.js
-│   └── ...
-│
-└── README.md
-```
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
