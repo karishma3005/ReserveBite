@@ -96,4 +96,4 @@ npm run dev
 
 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub:https://github.com/karishma3005
