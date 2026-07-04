@@ -93,7 +93,3 @@ npm run dev
 ## Author
 
 **Karishma Gurikar**
-
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
-GitHub:https://github.com/karishma3005
